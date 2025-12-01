@@ -1,2 +1,2 @@
-# car_of_python
+# call_of_python
 Juego orientado  a la enseñanza de lenguajes de programación
